@@ -11,8 +11,9 @@ A responsive weather web application that displays real-time weather data, hourl
 ## Tech Stack
 HTML, CSS, JavaScript, OpenWeatherMap API
 
-## How to Run
-Open `index.html` in your browser.
+## Live Demo
+Check out the live demo here: [Weather App Live](https://suhani445.github.io/Weather-App/)
+
 
 ## Author
 Suhani Gupta  
